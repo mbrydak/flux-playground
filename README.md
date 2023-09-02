@@ -1,2 +1,1 @@
-# flux-playground
-kubernetes shenanigans
+# cntm-infra
